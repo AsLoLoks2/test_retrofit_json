@@ -1,25 +1,39 @@
 {
-  "pytania":[
+  "boardgames":[
   {
-    "tresc": "Stolicą Polski było",
-    "odpa": "Wilkowyje",
-    "odpb": "Gniezno",
-    "odpc": "Kowno",
-    "poprawna": 1
+    "name": "Gloomhaven",
+    "minAge": 14,
+    "minPlayerCount": 1,
+    "maxPlayerCount": 4,
+    "gameTime": 120
   },
   {
-    "tresc": "Prezydentem Polski był",
-    "odpa": "Jarosław Kaczyński",
-    "odpb": "Lecha Wałęsa",
-    "odpc": "Paweł Kozioł",
-    "poprawna": 1
+    "name": "Roll Player",
+    "minAge": 10,
+    "minPlayerCount": 1,
+    "maxPlayerCount": 4,
+    "gameTime": 90
   },
   {
-    "tresc": "Ostatnie wybory to wybory",
-    "odpa": "parlamentarne",
-    "odpb": "prezydenckie",
-    "odpc": "samorządowe",
-    "poprawna": 2
+    "name": "Micro Mutants Evolution",
+    "minAge": 10,
+    "minPlayerCount": 2,
+    "maxPlayerCount": 4,
+    "gameTime": 30
+  },
+  {
+    "name": "Xiangqi",
+    "minAge": 6,
+    "minPlayerCount": 2,
+    "maxPlayerCount": 2,
+    "gameTime": 10
+  },
+  {
+    "name": "Jungle Speed Eco",
+    "minAge": 7,
+    "minPlayerCount": 2,
+    "maxPlayerCount": 10,
+    "gameTime": 15
   }
 ]
 }
